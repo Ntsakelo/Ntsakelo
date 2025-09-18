@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ntsakelo" alt="ntsakelo" /></a> </p>
 
-- 🔭 I’m currently working on [Ubank website](https://github.com/Ntsakelo/Ubank.git)
+- 🔭 I’m currently working on [Sliplify(https://github.com/Ntsakelo/Ubank.git)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
