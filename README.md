@@ -27,7 +27,7 @@ I’m passionate about **building impactful solutions** that combine clean softw
 
 ## 📌 Featured Project  
 
-### 🔹 [Slipify](https://github.com/yourusername/slipify) *(In Progress)*  
+### 🔹 [Slipify](https://github.com/Ntsakelo-Makhuvele/slipify.git) *(In Progress)*  
 A **till slip reader and personal finance tracker** that helps users digitize receipts, visualize spending patterns, and make smarter financial decisions.  
 
 - 🛠️ **Backend:** Node.js  
